@@ -1,0 +1,9 @@
+---
+layout: post
+title: "新博客"
+date: 2014-09-05 10:51:35 +0800
+comments: true
+categories: 
+---
+
+技术渣,原来的octopress环境不知道怎么搞回来。
